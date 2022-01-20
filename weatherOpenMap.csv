@@ -1,0 +1,101 @@
+city,country,Temperature,temp_max,temp_min,humidity,pressure,sky,sunrise,sunset,wind_speed
+Forville,FR,-2.03,-0.69,-4.59,95,1030,Clouds,08:04 AM,05:23 PM,3.03
+La Portanière,FR,5.61,6.59,4.33,59,1018,Clear,08:01 AM,05:30 PM,3.09
+Wittenheim,FR,-0.28,0.77,-1.1,93,1032,Clouds,08:11 AM,05:11 PM,0.98
+Wattrelos,FR,1.98,3.81,1.05,89,1036,Clouds,08:38 AM,05:17 PM,3.09
+Vitré,FR,2.28,2.75,-0.29,89,1038,Clouds,08:46 AM,05:44 PM,3.41
+Viry-Châtillon,FR,3.68,4.53,2.39,86,1036,Clouds,08:33 AM,05:28 PM,3.6
+Villeneuve-le-Roi,FR,3.68,4.5,2.36,86,1035,Clouds,08:34 AM,05:28 PM,3.6
+Vierzon,FR,3.1,3.88,1.73,91,1035,Clouds,08:30 AM,05:34 PM,4.02
+Verrières-le-Buisson,FR,3.27,4.12,1.98,85,1035,Clouds,08:34 AM,05:28 PM,3.09
+Arrondissement d'Antony,FR,3.6,4.4,2.26,85,1036,Clouds,08:34 AM,05:28 PM,3.6
+Vallauris,FR,4.83,8.45,1.89,81,1019,Clear,07:59 AM,05:26 PM,2.06
+Tourcoing,FR,1.99,3.75,0.99,89,1036,Clouds,08:38 AM,05:17 PM,3.09
+Taverny,FR,3.31,4.21,2.19,85,1032,Clear,08:35 AM,05:27 PM,3.6
+Soisy-sous-Montmorency,FR,3.65,4.49,2.47,85,1032,Clouds,08:35 AM,05:27 PM,2.57
+Sin-le-Noble,FR,2.32,3.3,1.14,81,1036,Clouds,08:37 AM,05:19 PM,3.24
+Sèvres,FR,3.2,4.05,1.91,85,1035,Clouds,08:35 AM,05:28 PM,3.09
+Salon-de-Provence,FR,5.27,6.08,4.8,61,1020,Clear,08:07 AM,05:33 PM,10.29
+Saint-Ouen-sur-Seine,FR,3.61,4.47,2.33,84,1036,Clouds,08:34 AM,05:27 PM,0.89
+Saint-Fons,FR,3.28,3.9,2.15,80,1029,Clear,08:14 AM,05:28 PM,6.69
+Saint-Avold,FR,0.04,1.92,-1.03,99,1033,Clouds,08:18 AM,05:09 PM,2.58
+Rezé,FR,3.6,4.14,2.79,81,1036,Clear,08:44 AM,05:49 PM,4.12
+Pontivy,FR,1.63,6.19,-0.58,86,1039,Clouds,08:53 AM,05:52 PM,3.33
+Pessac,FR,2.56,3.26,1.8,95,1034,Clouds,08:33 AM,05:53 PM,2.06
+Palaiseau,FR,3.38,4.23,2.09,86,1035,Clouds,08:34 AM,05:28 PM,0.45
+Ozoir-la-Ferrière,FR,3.03,4.09,1.58,91,1036,Clouds,08:33 AM,05:27 PM,3.7
+Oullins,FR,3.43,4.06,2.31,79,1029,Clear,08:14 AM,05:28 PM,6.69
+Mougins,FR,4.73,8.43,1.87,82,1019,Clear,07:59 AM,05:26 PM,2.06
+Morsang-sur-Orge,FR,3.63,4.49,2.34,86,1036,Clouds,08:34 AM,05:28 PM,3.6
+Montélimar,FR,5.17,6.43,4.81,64,1025,Clouds,08:11 AM,05:32 PM,12.38
+Montbéliard,FR,-1.41,1.53,-2.23,96,1032,Clouds,08:12 AM,05:14 PM,0.83
+Maisons-Alfort,FR,3.71,4.54,2.4,85,1035,Clouds,08:34 AM,05:27 PM,3.6
+Louviers,FR,3.75,4.69,2.75,84,1036,Clouds,08:40 AM,05:31 PM,3.09
+Limeil-Brévannes,FR,3.48,4.38,2.23,84,1035,Clouds,08:33 AM,05:27 PM,3.6
+Les Pavillons-sous-Bois,FR,3.38,4.3,2.28,86,1036,Clouds,08:34 AM,05:27 PM,0.89
+Lattes,FR,4.99,6.55,4.97,59,1023,Clear,08:11 AM,05:38 PM,0.89
+Grigny,FR,3.42,4.28,2.14,86,1036,Clouds,08:33 AM,05:28 PM,3.6
+Goussainville,FR,3.24,4.18,2.16,86,1036,Clouds,08:34 AM,05:26 PM,4.12
+Gien,FR,1.61,2.51,0.21,94,1035,Clouds,08:29 AM,05:30 PM,3.59
+Gagny,FR,3.46,4.39,2.37,86,1036,Clouds,08:34 AM,05:27 PM,2.57
+Firminy,FR,1.21,1.94,0.19,87,1029,Snow,08:15 AM,05:31 PM,3.6
+Échirolles,FR,2.5,4.99,1.75,77,1027,Clouds,08:09 AM,05:26 PM,2.59
+Décines-Charpieu,FR,3.53,4.05,2.3,81,1029,Clear,08:13 AM,05:27 PM,6.69
+Dammarie-les-Lys,FR,2.77,4.36,1.16,92,1035,Clear,08:32 AM,05:28 PM,4.12
+Colombes,FR,3.68,4.52,2.38,84,1032,Clouds,08:35 AM,05:28 PM,2.57
+Cognac,FR,3.07,4.37,0.64,92,1033,Clear,08:34 AM,05:49 PM,3.6
+Chenôve,FR,2.04,2.67,0.0,75,1032,Clear,08:18 AM,05:22 PM,4.63
+Chelles,FR,3.34,4.31,1.8,87,1036,Clouds,08:33 AM,05:26 PM,4.12
+Cesson-Sévigné,FR,1.86,5.14,-0.06,81,1037,Clouds,08:47 AM,05:46 PM,2.57
+Cayenne,FR,3.1,4.01,2.06,90,1037,Clouds,08:40 AM,05:28 PM,3.92
+Carvin,FR,2.28,3.27,1.1,83,1037,Clouds,08:38 AM,05:19 PM,0.45
+Bonneuil-sur-Marne,FR,3.64,4.52,2.38,84,1035,Clouds,08:33 AM,05:27 PM,3.6
+Belfort,FR,-1.54,1.21,-2.08,94,1033,Clouds,08:12 AM,05:14 PM,1.21
+Bayeux,FR,5.12,5.55,4.26,67,1038,Clouds,08:48 AM,05:38 PM,5.7
+Bagnolet,FR,3.35,4.23,2.09,85,1036,Clouds,08:34 AM,05:27 PM,0.89
+Autun,FR,1.83,2.39,1.75,93,1033,Clouds,08:20 AM,05:26 PM,2.7
+Auch,FR,3.01,4.3,2.35,88,1033,Clouds,08:25 AM,05:51 PM,0.89
+Annecy-le-Vieux,FR,2.19,3.73,-0.28,69,1026,Clouds,08:09 AM,05:22 PM,5.14
+Alfortville,FR,3.75,4.58,2.44,85,1035,Clouds,08:34 AM,05:27 PM,3.6
+Les Ulis,FR,2.85,3.74,1.6,86,1035,Clouds,08:34 AM,05:29 PM,0.89
+Saint-Jean-de-la-Ruelle,FR,2.23,3.78,1.03,84,1034,Clear,08:33 AM,05:33 PM,1.34
+Saint-Herblain,FR,3.33,3.94,2.59,81,1036,Clear,08:45 AM,05:49 PM,4.12
+Saint-Étienne,FR,0.63,1.35,0.42,87,1029,Clouds,08:15 AM,05:31 PM,3.6
+Saint-Cyr-sur-Loire,FR,3.71,4.14,2.25,81,1035,Clear,08:36 AM,05:39 PM,3.09
+Paris,FR,3.62,4.47,2.33,85,1036,Clouds,08:34 AM,05:28 PM,0.89
+Arrondissement de Boulogne-sur-Mer,FR,3.04,4.47,1.51,80,1037,Clouds,08:43 AM,05:23 PM,6.18
+Outreau,FR,2.66,4.71,0.71,75,1037,Clouds,08:44 AM,05:24 PM,8.3
+Orvault,FR,3.19,3.94,2.59,82,1036,Clear,08:45 AM,05:49 PM,4.12
+Arrondissement de Metz,FR,1.26,2.68,-0.55,86,1032,Clear,08:20 AM,05:11 PM,3.6
+Maurepas,FR,2.71,3.67,1.53,86,1035,Clouds,08:36 AM,05:30 PM,0.89
+Laon,FR,1.68,1.68,1.68,91,1035,Clouds,08:32 AM,05:20 PM,3.13
+La Crau,FR,6.35,6.94,4.12,54,1019,Clear,08:01 AM,05:31 PM,0.89
+La Courneuve,FR,3.65,4.54,2.4,85,1036,Clouds,08:34 AM,05:27 PM,0.89
+Gentilly,FR,3.47,4.25,2.11,85,1035,Clouds,08:34 AM,05:28 PM,3.58
+Garches,FR,2.87,3.73,1.59,85,1035,Clouds,08:35 AM,05:28 PM,3.58
+Croix,FR,2.08,3.84,1.07,84,1035,Clouds,08:38 AM,05:18 PM,3.09
+Couëron,FR,3.3,4.01,2.66,81,1036,Clear,08:45 AM,05:50 PM,4.12
+Cernay,FR,-0.77,0.29,-2.06,86,1032,Clouds,08:11 AM,05:12 PM,1.3
+Montussan,FR,2.72,3.24,1.78,88,1033,Clouds,08:32 AM,05:52 PM,2.95
+Saint-Laurent,FR,0.36,1.59,0.36,89,1034,Clouds,08:28 AM,05:15 PM,2.43
+Saint-Bris-le-Vineux,FR,0.07,0.64,0.07,94,1034,Clear,08:25 AM,05:26 PM,2.83
+Garanou,FR,3.23,4.85,0.02,38,1027,Clouds,08:17 AM,05:49 PM,2.68
+Provence-Alpes-Côte d'Azur Region,FR,-0.79,2.04,-0.79,82,1021,Clouds,08:04 AM,05:29 PM,3.36
+Var,FR,4.03,5.72,1.5,65,1019,Clear,08:01 AM,05:29 PM,2.57
+Arrondissement de Narbonne,FR,5.19,6.85,3.11,61,1027,Clear,08:14 AM,05:44 PM,7.65
+Carbonne,FR,3.96,4.88,2.6,98,1029,Clouds,08:21 AM,05:50 PM,1.79
+Carbonne,FR,3.89,4.8,2.52,98,1029,Clouds,08:21 AM,05:50 PM,1.79
+Arrondissement de Marseille,FR,3.29,4.95,2.69,66,1019,Clear,08:04 AM,05:33 PM,3.82
+Saint-Pierre,FR,5.61,6.3,5.09,61,1020,Clear,08:06 AM,05:34 PM,5.14
+Ilharre,FR,6.18,7.55,4.15,94,1032,Clouds,08:30 AM,05:59 PM,2.78
+Les Mées,FR,1.3,1.3,1.3,82,1021,Clouds,08:04 AM,05:29 PM,3.32
+Castelsarrasin,FR,3.11,3.82,2.91,88,1031,Clear,08:24 AM,05:48 PM,3.37
+Vallabrix,FR,5.11,5.91,3.99,62,1023,Clear,08:10 AM,05:34 PM,10.63
+Lussolle,FR,2.69,6.93,1.9,93,1032,Clouds,08:29 AM,05:53 PM,2.24
+Pontenx-les-Forges,FR,4.78,7.51,1.77,77,1033,Clouds,08:33 AM,05:56 PM,2.91
+Pontenx-les-Forges,FR,4.99,7.58,1.85,77,1033,Clouds,08:33 AM,05:56 PM,2.94
+Saint-Trosse,FR,4.2,7.41,1.68,79,1033,Clouds,08:33 AM,05:56 PM,2.72
+Arrondissement de Périgueux,FR,1.56,3.31,-0.17,85,1030,Clear,08:29 AM,05:47 PM,2.34
+Arrondissement de La Tour-du-Pin,FR,1.42,2.39,0.64,94,1029,Clouds,08:11 AM,05:26 PM,3.68
+Four,FR,2.09,2.98,1.23,87,1029,Clouds,08:12 AM,05:27 PM,7.2
+Corent,FR,2.63,2.63,2.63,87,1031,Clouds,08:20 AM,05:35 PM,4.63
